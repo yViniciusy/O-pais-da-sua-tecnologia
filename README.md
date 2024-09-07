@@ -1,4 +1,4 @@
-Já se perguntou qual país é o líder em determinada tecnologia? Essa aplicação te leva em uma jornada para descobrir!
+Já se perguntou qual país é o líder em determinada tecnologia? Essa aplicação te leva em uma jornada para descobrir! - com a imersão dev
 
 ## Como Funciona?
 
